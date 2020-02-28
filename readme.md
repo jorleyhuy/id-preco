@@ -4,8 +4,14 @@
 
 Equipe:
 
-Front-End -> Serjaum, João e Zaira (a confirmar)
+Front-End -> Serjaum, João e Zaira e Tony
 
-Back-End -> Leo, Fábio e Aislan
+Back-End -> Leo, Fábio e Aislan e Tony
 
-Banco de Dados -> Jorley
+Fullstake -> Tony
+
+Banco de Dados -> Jorley e Tony
+
+Dev Marca -> Leo
+
+Desingers -> Leo e Tony
